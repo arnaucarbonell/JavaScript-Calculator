@@ -44,6 +44,7 @@ const result3 = calculator.multiply(4, 2); // 8
 const result4 = calculator.divide(16, 2); // 8
 
 console.log(result1, result2, result3, result4);
+```
 
 ### Functions Overview
 
