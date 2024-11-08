@@ -22,7 +22,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/javascript-calculator-logic.git
 cd javascript-calculator-logic
-
+```
 ## Usage
 
 Since this is a logic-only calculator, you can use the methods by importing or requiring the `calculator.js` file in your JavaScript project. Below is a quick example of how to use the calculator functions in a Node.js environment.
